@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="C:\Users\BenZDeV\Desktop\TestChart\app\build\intermediates\pre-dexed\debug\classes_c7365ed460f83389a576c23cdc0c47f243d62173.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BenZDeV\Desktop\TestChart\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\BenZDeV\Desktop\TestChart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3cf2662fcd49b47d485d537188985a28ceafe998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BenZDeV\Desktop\TestChart\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34d0504d077003c296115bd2eb65440adfc08c9">
+        <dex dex="C:\Users\BenZDeV\Desktop\TestChart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2bd2173c8a94f1e652380fc0bee79e675abe65f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BenZDeV\.gradle\caches\modules-2\files-2.1\pl.edu.icm\JLargeArrays\1.5\fe1350c7b5537c144fb0af39206e212ad1bbbe2\JLargeArrays-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fe1350c7b5537c144fb0af39206e212ad1bbbe2">
+        <dex dex="C:\Users\BenZDeV\Desktop\TestChart\app\build\intermediates\pre-dexed\debug\JLargeArrays-1.5_75c1cd9d7a13c58810696fcae8fca8e71cb1e511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BenZDeV\.android\build-cache\4eb32711e66d50e3d5f3ae3956a11abb23de80e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\BenZDeV\Desktop\TestChart\app\build\intermediates\pre-dexed\debug\classes_45a3dd90347f1413420734d61e4f53b83b832051.jar" />
+    </item>
+
+</items>

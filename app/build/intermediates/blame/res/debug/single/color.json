@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\52b80970432ed571c9cb250cf30a967aad7802cb\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\52b80970432ed571c9cb250cf30a967aad7802cb\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\52b80970432ed571c9cb250cf30a967aad7802cb\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\e318893264ed2c3034bddd33642ff438f4276153\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BenZDeV\\Desktop\\TestChart\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\BenZDeV\\.android\\build-cache\\52b80970432ed571c9cb250cf30a967aad7802cb\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

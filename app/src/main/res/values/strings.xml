@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Heart Sound</string>
+    <string name="button_start">START</string>
+    <string name="button_stop">STOP</string>
+    <string name="save_file">บันทึก เรียบร้อย</string>
+    <string name="cut_wave">ตัดข้อมูล เรียบร้อย</string>
+    <string name="fail_cut_wave">ความยาวข้อมูลต้องมากกว่านี้</string>
+    <string name="type_of_heart">Type :</string>
+    <string name="position">Position :</string>
+</resources>
