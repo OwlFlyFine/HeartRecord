@@ -1,108 +1,150 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\88dfd2648c16236fbe877ba8818efe79\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.0.1.aar\5e2ba865b911e9471e17fb283f19c6c1\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\891429ace2345652dc798379602ca2e5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0a60b8504a8fde60769c4a02f304cf0b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\75dc3cf8e58c1542b7d96137069357f2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\0c29ae2f389e26cf33c71eba140a2204\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\459506acd6e76078d65f975179881bf4\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:5:5-71
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:5:5-71
 	android:name
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:5:22-68
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:5:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:7:22-77
 application
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:9:5-26:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\BenZDeV\.android\build-cache\e318893264ed2c3034bddd33642ff438f4276153\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\BenZDeV\.android\build-cache\e434ee1f9aa9c24cf7b470d8a45674f1d8822cd0\output\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\BenZDeV\.android\build-cache\85b8710d4b6ce7308fe2f6915d1926f3b0ecad6a\output\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:9.0.1] C:\Users\BenZDeV\.android\build-cache\73983900aea5250a790d0928b7be1d0fe886f14f\output\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\BenZDeV\.android\build-cache\52b80970432ed571c9cb250cf30a967aad7802cb\output\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\AndroidManifest.xml:5:5-12:19
-MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\BenZDeV\.android\build-cache\e732297fc4650294ebb849295f6c39c23b852472\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\BenZDeV\.android\build-cache\d3bb69935413edc78093fc961ceb5ce4848b3939\output\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\BenZDeV\.android\build-cache\90fd4ee84bfb0852f5047746ce71721f8f78d8f1\output\AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:12:9-41
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:9:5-26:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\88dfd2648c16236fbe877ba8818efe79\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\88dfd2648c16236fbe877ba8818efe79\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.0.1.aar\5e2ba865b911e9471e17fb283f19c6c1\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.0.1.aar\5e2ba865b911e9471e17fb283f19c6c1\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\891429ace2345652dc798379602ca2e5\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\891429ace2345652dc798379602ca2e5\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0a60b8504a8fde60769c4a02f304cf0b\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0a60b8504a8fde60769c4a02f304cf0b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\75dc3cf8e58c1542b7d96137069357f2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\75dc3cf8e58c1542b7d96137069357f2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\0c29ae2f389e26cf33c71eba140a2204\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\0c29ae2f389e26cf33c71eba140a2204\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\459506acd6e76078d65f975179881bf4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\459506acd6e76078d65f975179881bf4\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:13:9-35
-	android:allowBackup
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:11:9-47
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:11:9-47
+	android:allowBackup
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.example.l.trbear.MainActivity
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:screenOrientation
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:15:69-105
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:15:69-105
 	android:name
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:15:19-67
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:15:19-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:19:27-74
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\BenZDeV\.android\build-cache\d3bb69935413edc78093fc961ceb5ce4848b3939\output\AndroidManifest.xml:21:9-23:69
+ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\0c29ae2f389e26cf33c71eba140a2204\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\0c29ae2f389e26cf33c71eba140a2204\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:25:13-66
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml:24:13-58
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml:24:13-58
 uses-sdk
-INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\BenZDeV\.android\build-cache\e318893264ed2c3034bddd33642ff438f4276153\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\BenZDeV\.android\build-cache\e434ee1f9aa9c24cf7b470d8a45674f1d8822cd0\output\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\BenZDeV\.android\build-cache\85b8710d4b6ce7308fe2f6915d1926f3b0ecad6a\output\AndroidManifest.xml:5:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:9.0.1] C:\Users\BenZDeV\.android\build-cache\73983900aea5250a790d0928b7be1d0fe886f14f\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\BenZDeV\.android\build-cache\52b80970432ed571c9cb250cf30a967aad7802cb\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\BenZDeV\.android\build-cache\e732297fc4650294ebb849295f6c39c23b852472\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\BenZDeV\.android\build-cache\d3bb69935413edc78093fc961ceb5ce4848b3939\output\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\BenZDeV\.android\build-cache\90fd4ee84bfb0852f5047746ce71721f8f78d8f1\output\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\88dfd2648c16236fbe877ba8818efe79\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\88dfd2648c16236fbe877ba8818efe79\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.0.1.aar\5e2ba865b911e9471e17fb283f19c6c1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.0.1.aar\5e2ba865b911e9471e17fb283f19c6c1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\891429ace2345652dc798379602ca2e5\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\891429ace2345652dc798379602ca2e5\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0a60b8504a8fde60769c4a02f304cf0b\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0a60b8504a8fde60769c4a02f304cf0b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\75dc3cf8e58c1542b7d96137069357f2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\75dc3cf8e58c1542b7d96137069357f2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\0c29ae2f389e26cf33c71eba140a2204\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\0c29ae2f389e26cf33c71eba140a2204\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\459506acd6e76078d65f975179881bf4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\459506acd6e76078d65f975179881bf4\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\BenZDeV\.android\build-cache\e318893264ed2c3034bddd33642ff438f4276153\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\88dfd2648c16236fbe877ba8818efe79\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\BenZDeV\Desktop\TestChart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sk_sk\StudioProjects\HeartRecord\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\BenZDeV\.android\build-cache\52b80970432ed571c9cb250cf30a967aad7802cb\output\AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\BenZDeV\.android\build-cache\52b80970432ed571c9cb250cf30a967aad7802cb\output\AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\BenZDeV\.android\build-cache\52b80970432ed571c9cb250cf30a967aad7802cb\output\AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\BenZDeV\.android\build-cache\52b80970432ed571c9cb250cf30a967aad7802cb\output\AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\d1eccfae8ae9f6678ddbb91e37c60743\AndroidManifest.xml:20:19-85
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\AndroidManifest.xml:7:9-11:39
+ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:7:9-11:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\AndroidManifest.xml:8:13-72
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:8:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\AndroidManifest.xml:10:13-37
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:10:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\AndroidManifest.xml:11:13-36
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:11:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\BenZDeV\.android\build-cache\4e1987525109cace17d339d15b65973ec630a79c\output\AndroidManifest.xml:9:13-58
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\sk_sk\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\60462e35ff56bda90e067ad27338c0ee\AndroidManifest.xml:9:13-58
